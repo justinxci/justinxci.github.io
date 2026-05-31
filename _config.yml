@@ -29,10 +29,9 @@ twitter_username:
 github_username:  justinxci
 
 # Build settings
-remote_theme: "batoreh/jekyll-minima"
+theme: "minima"
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
